@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T9h0sO5ys2ElhOi99vKxN2P15L8KtJ4GnvQeVmg814M=",
+  "Hash": "56URFkjS+8iC59zYuYqgiTe/nC6scd++UJF4eGdCZzE=",
   "Source": "fms",
   "BasePath": "_content/fms",
   "Mode": "Default",
@@ -355,6 +355,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\app.min.js"
+    },
+    {
+      "Identity": "C:\\src\\Asp dot Net Core\\Ivonne\\fms\\fms\\wwwroot\\assets\\js\\app-style-switcher.js",
+      "SourceId": "fms",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\src\\Asp dot Net Core\\Ivonne\\fms\\fms\\wwwroot\\",
+      "BasePath": "_content/fms",
+      "RelativePath": "assets/js/app-style-switcher.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\app-style-switcher.js"
     },
     {
       "Identity": "C:\\src\\Asp dot Net Core\\Ivonne\\fms\\fms\\wwwroot\\assets\\js\\dashboard.js",
